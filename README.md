@@ -1,7 +1,6 @@
 # AI-Driven Privacy Transparency for Mobile Health Applications
 
-> **Repo 0 of 7 — this is a snapshot, not my own work.**
-> I used this app as the baseline for my M.Sc. thesis at McMaster University, *"Who Moved My Button?": A Usability Evaluation of LLM-Assisted Cross-Platform Migration*. For that thesis, I had two AI coding agents (Claude Sonnet 4.6 and GPT-5.5) each migrate this app to three different frameworks, then evaluated all 7 resulting apps for usability. I'm keeping this frozen copy here so my experiments stay reproducible, but I didn't build the app below — full credit for it belongs to the original author.
+> **Repo 0/7 — a snapshot, not my own work.** Baseline for my M.Sc. thesis, *"Who Moved My Button?"* (McMaster, 2026), which compares this app against 6 AI-migrated versions of it. I froze a copy here for reproducibility; full credit for everything below belongs to the original author.
 >
 > - **Original repository:** https://github.com/Ayushpatel2026/privacy-transparency (go there for the live, maintained version and full commit history)
 > - **Snapshotted commit:** `8b564a02f18609881c9c7e2c47f9f5f6b017617d`
@@ -12,13 +11,13 @@
 >
 > | Repo | Description |
 > |---|---|
-> | **thesis-privacy-baseline** | **This repo** — original React Native app (unmodified snapshot) |
-> | [thesis-privacy-sonnet46-kmp](https://github.com/MelvinMo/thesis-privacy-sonnet46-kmp) | Claude Sonnet 4.6 → Kotlin Multiplatform |
-> | [thesis-privacy-sonnet46-flutter](https://github.com/MelvinMo/thesis-privacy-sonnet46-flutter) | Claude Sonnet 4.6 → Flutter |
-> | [thesis-privacy-sonnet46-maui](https://github.com/MelvinMo/thesis-privacy-sonnet46-maui) | Claude Sonnet 4.6 → .NET MAUI |
-> | [thesis-privacy-gpt55-kmp](https://github.com/MelvinMo/thesis-privacy-gpt55-kmp) | GPT-5.5 → Kotlin Multiplatform |
-> | [thesis-privacy-gpt55-flutter](https://github.com/MelvinMo/thesis-privacy-gpt55-flutter) | GPT-5.5 → Flutter |
-> | [thesis-privacy-gpt55-maui](https://github.com/MelvinMo/thesis-privacy-gpt55-maui) | GPT-5.5 → .NET MAUI |
+> | **llm-migration-sleeptracker-baseline** | **This repo** — original React Native app (unmodified snapshot) |
+> | [llm-migration-sleeptracker-sonnet46-kmp](https://github.com/MelvinMo/llm-migration-sleeptracker-sonnet46-kmp) | Claude Sonnet 4.6 → Kotlin Multiplatform |
+> | [llm-migration-sleeptracker-sonnet46-flutter](https://github.com/MelvinMo/llm-migration-sleeptracker-sonnet46-flutter) | Claude Sonnet 4.6 → Flutter |
+> | [llm-migration-sleeptracker-sonnet46-maui](https://github.com/MelvinMo/llm-migration-sleeptracker-sonnet46-maui) | Claude Sonnet 4.6 → .NET MAUI |
+> | [llm-migration-sleeptracker-gpt55-kmp](https://github.com/MelvinMo/llm-migration-sleeptracker-gpt55-kmp) | GPT-5.5 → Kotlin Multiplatform |
+> | [llm-migration-sleeptracker-gpt55-flutter](https://github.com/MelvinMo/llm-migration-sleeptracker-gpt55-flutter) | GPT-5.5 → Flutter |
+> | [llm-migration-sleeptracker-gpt55-maui](https://github.com/MelvinMo/llm-migration-sleeptracker-gpt55-maui) | GPT-5.5 → .NET MAUI |
 >
 > ### Citing my thesis
 >
