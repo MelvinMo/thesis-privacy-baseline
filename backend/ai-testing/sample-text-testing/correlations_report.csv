@@ -1,0 +1,6 @@
+Correlation Pair,Correlation Value
+Word Count vs. NLI Score,0.16241795723930677
+Word Count vs. Flesch-Kincaid Score,0.267353113585084
+Word Count vs. Word Frequency Score,0.2900705403640483
+NLI Score vs. Word Frequency Score,-0.30065183356860625
+NLI Score vs. Flesch-Kincaid Score,0.31615840511593274

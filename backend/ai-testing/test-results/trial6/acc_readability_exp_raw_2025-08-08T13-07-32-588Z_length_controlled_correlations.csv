@@ -1,0 +1,6 @@
+TargetLength,SampleSize,SampleSize_Readable,SampleSize_Accurate,NLI_vs_Flesch,NLI_vs_WordFreq,NLI_vs_Flesch_readable,NLI_vs_WordFreq_readable,NLI_vs_Flesch_accurate,NLI_vs_WordFreq_accurate
+15,16,8,8,-0.456,0.053,-0.607,-0.173,-0.242,0.428
+20,16,8,8,-0.75,0.11,-0.881,0.012,-0.645,0.011
+25,16,8,8,-0.79,0.225,-0.906,0.62,-0.205,0.52
+30,16,8,8,-0.233,-0.07,-0.417,-0.395,-0.001,0.064
+50,16,8,8,-0.389,-0.101,-0.449,-0.18,-0.488,0.159

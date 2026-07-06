@@ -1,0 +1,3 @@
+InstructionType,SampleSize,Mean_ActualWordCount,Std_ActualWordCount,Mean_NLI_DataCollection,Std_NLI_DataCollection,Mean_NLI_PrivacyExplanation,Std_NLI_PrivacyExplanation,Mean_NLI_AverageScore,Std_NLI_AverageScore,Mean_FleschKincaid,Std_FleschKincaid,Mean_ColemanLiau,Std_ColemanLiau,Mean_WordFrequencyScore,Std_WordFrequencyScore
+accurate,11,16.0682,6.3601,0.8047,0.2377,0.5484,0.1764,0.6765,0.1573,13.1245,3.0487,17.1027,1.7867,4.5098,0.2802
+readable,20,23.2,9.3677,0.7619,0.1971,0.6891,0.1856,0.7255,0.1521,8.9235,2.8279,12.2845,2.6796,5.1434,0.2638

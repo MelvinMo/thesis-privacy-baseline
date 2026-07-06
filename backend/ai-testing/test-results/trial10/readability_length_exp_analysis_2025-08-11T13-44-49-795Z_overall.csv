@@ -1,0 +1,2 @@
+SampleSize,Mean_ActualWordCount,Std_ActualWordCount,Mean_NLI_DataCollection,Std_NLI_DataCollection,Mean_NLI_PrivacyExplanation,Std_NLI_PrivacyExplanation,Mean_NLI_AverageScore,Std_NLI_AverageScore,Mean_FleschKincaid,Std_FleschKincaid,Mean_WordFrequencyScore,Std_WordFrequencyScore
+44,26.6591,9.0773,0.8835,0.1882,0.711,0.1515,0.7972,0.128,9.2461,1.3607,5.0982,0.2601

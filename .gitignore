@@ -1,0 +1,13 @@
+node_modules/
+
+.env
+.env.local
+
+serviceAccountKey.json
+
+.vscode/
+
+dist/
+
+# Local tool configuration
+.claude/

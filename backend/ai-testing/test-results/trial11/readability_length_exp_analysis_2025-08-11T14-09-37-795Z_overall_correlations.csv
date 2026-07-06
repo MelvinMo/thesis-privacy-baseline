@@ -1,0 +1,2 @@
+Length_vs_NLI_Avg,Length_vs_NLI_DataCollection,Length_vs_NLI_PrivacyExplanation,Length_vs_FleschKincaid,Length_vs_WordFrequency,NLI_Avg_vs_FleschKincaid,NLI_Avg_vs_WordFrequency,NLI_DataCollection_vs_FleschKincaid,NLI_DataCollection_vs_WordFrequency,NLI_PrivacyExplanation_vs_FleschKincaid,NLI_PrivacyExplanation_vs_WordFrequency
+0.5146,0.2319,0.5069,-0.0068,0.3653,-0.0755,-0.0326,-0.0972,-0.2208,0.0014,0.2156

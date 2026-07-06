@@ -1,0 +1,9 @@
+EventKey,SampleSize,Mean_ActualWordCount,Std_ActualWordCount,Mean_NLI_DataCollection,Std_NLI_DataCollection,Mean_NLI_PrivacyExplanation,Std_NLI_PrivacyExplanation,Mean_NLI_AverageScore,Std_NLI_AverageScore,Mean_FleschKincaid,Std_FleschKincaid,Mean_ColemanLiau,Std_ColemanLiau,Mean_WordFrequencyScore,Std_WordFrequencyScore
+background-without-clear-consent,10,171.7,41.7853,0.9875,0.0107,0.7195,0.3109,0.8535,0.1588,11.767,1.8344,13.938,2.4378,5.0368,0.3266
+compliant,10,101.5,53.4712,0.6837,0.1972,0.4628,0.3256,0.5732,0.1988,10.939,1.0169,15.789,2.1136,4.4808,0.4169
+consent-violation,10,117.4,34.1376,0.616,0.3359,0.4702,0.3469,0.5431,0.2296,9.51,1.3384,14.261,1.3772,4.5612,0.3968
+insecure-local-storage,10,129.7,60.3141,0.784,0.3188,0.2296,0.2468,0.5068,0.2276,10.422,1.392,14.014,2.379,4.8247,0.4749
+multiple-violations,10,112.8,58.912,0.7826,0.2671,0.1833,0.2722,0.483,0.1538,10.828,1.5969,15.034,1.9008,4.7086,0.3199
+not-encrypted-at-rest,10,116.6,36.9239,0.7016,0.3853,0.1707,0.2004,0.4362,0.1833,11.423,1.7673,14.839,2.5656,4.7482,0.3635
+unencrypted-transmission,10,96.3,40.6723,0.6993,0.2869,0.227,0.3029,0.4632,0.2014,10.443,1.0881,15.512,1.4366,4.4897,0.3803
+wrong-storage-location,10,126.8,55.4032,0.6193,0.3524,0.3162,0.2782,0.4678,0.2487,9.023,1.6408,13.093,1.3588,4.7663,0.3428

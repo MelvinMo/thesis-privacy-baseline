@@ -1,0 +1,11 @@
+InstructionType,TargetLength,SampleSize,Mean_LengthRatio,Std_LengthRatio,Mean_LengthDifference,Std_LengthDifference,Mean_LengthAccuracy,Std_LengthAccuracy
+accurate,15,8,0.9104,0.0479,-1.3438,0.7188,0.0896,0.0479
+accurate,20,8,0.8844,0.0958,-2.3125,1.9168,0.125,0.0813
+accurate,25,8,0.9212,0.071,-1.9688,1.775,0.0888,0.0559
+accurate,30,8,0.8219,0.0648,-5.3438,1.9454,0.1781,0.0648
+accurate,50,8,0.7556,0.0397,-12.2188,1.984,0.2444,0.0397
+readable,15,8,0.8104,0.2546,-2.8438,3.8194,0.1896,0.2546
+readable,20,8,0.8625,0.2399,-2.75,4.7977,0.1594,0.2239
+readable,25,8,0.7888,0.3579,-5.2812,8.9467,0.2712,0.3082
+readable,30,8,0.8583,0.0484,-4.25,1.4516,0.1417,0.0484
+readable,50,8,0.82,0.1334,-9.0,6.6722,0.1888,0.1188

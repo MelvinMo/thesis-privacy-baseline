@@ -1,0 +1,6 @@
+TargetLength,SampleSize,Mean_ActualWordCount,Std_ActualWordCount,Mean_NLI_DataCollection,Std_NLI_DataCollection,Mean_NLI_PrivacyExplanation,Std_NLI_PrivacyExplanation,Mean_NLI_AverageScore,Std_NLI_AverageScore,Mean_FleschKincaid,Std_FleschKincaid,Mean_WordFrequencyScore,Std_WordFrequencyScore
+15,8,13.4,3.0491,0.7594,0.1893,0.5344,0.2461,0.6469,0.1719,10.875,3.6263,4.7825,0.1659
+20,8,14.4125,5.2526,0.7265,0.2329,0.4631,0.2227,0.5945,0.1975,12.1375,4.3389,4.8438,0.2394
+25,8,22.2625,6.7154,0.7872,0.3103,0.6112,0.1625,0.6992,0.2165,9.8687,3.9641,5.055,0.2326
+30,8,27.8875,3.328,0.8661,0.1407,0.6379,0.1465,0.7521,0.0824,9.1462,1.065,5.0625,0.2037
+50,8,37.125,3.724,0.884,0.1474,0.8225,0.0845,0.8532,0.1094,10.4163,0.988,5.1187,0.2351

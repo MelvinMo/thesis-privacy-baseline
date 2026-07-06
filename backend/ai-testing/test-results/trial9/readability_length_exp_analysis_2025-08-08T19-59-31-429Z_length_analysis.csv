@@ -1,0 +1,6 @@
+TargetLength,SampleSize,Mean_LengthRatio,Std_LengthRatio,Mean_LengthDifference,Std_LengthDifference,Mean_LengthAccuracy,Std_LengthAccuracy
+15,8,0.8933,0.2033,-1.6,3.0491,0.1117,0.2002
+20,8,0.7206,0.2626,-5.5875,5.2526,0.2794,0.2626
+25,8,0.8905,0.2686,-2.7375,6.7154,0.1355,0.2547
+30,8,0.9296,0.1109,-2.1125,3.328,0.1087,0.0668
+50,8,0.7425,0.0745,-12.875,3.724,0.2575,0.0745

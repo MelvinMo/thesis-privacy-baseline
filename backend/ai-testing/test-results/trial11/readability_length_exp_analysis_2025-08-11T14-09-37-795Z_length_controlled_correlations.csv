@@ -1,0 +1,7 @@
+TargetLength,SampleSize,NLI_AverageScore_vs_FleschKincaid,NLI_AverageScore_vs_WordFrequency,NLI_DataCollection_vs_FleschKincaid,NLI_DataCollection_vs_WordFrequency,NLI_PrivacyExplanation_vs_FleschKincaid,NLI_PrivacyExplanation_vs_WordFrequency
+15,7,-0.1215,-0.027,-0.6333,-0.3446,0.2224,0.1691
+20,7,0.008,-0.5281,0.2342,-0.1656,-0.3183,-0.5425
+25,7,0.0123,-0.6829,0.1644,-0.8337,-0.3821,0.3149
+30,8,-0.03,0.1092,-0.3297,-0.2478,0.2368,0.3413
+40,8,0.0487,-0.0854,0.355,-0.3643,-0.3081,0.2565
+50,8,0.1875,-0.1749,-0.0549,-0.3267,0.3988,0.0866
