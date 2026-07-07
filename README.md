@@ -1,6 +1,6 @@
 # AI-Driven Privacy Transparency for Mobile Health Applications
 
-> **Repo 0/7 — a snapshot, not my own work.** Baseline for my M.Sc. thesis, *"Who Moved My Button?"* (McMaster, 2026), which compares this app against 6 AI-migrated versions of it. I froze a copy here for reproducibility; full credit for everything below belongs to the original author.
+> **Repo 1/7 — a snapshot, not my own work.** Baseline for my M.Sc. thesis, *"Who Moved My Button?"* (McMaster, 2026), which compares this app against 6 AI-migrated versions of it. I froze a copy here for reproducibility; full credit for everything below belongs to the original author.
 >
 > - **Original repository:** https://github.com/Ayushpatel2026/privacy-transparency (go there for the live, maintained version and full commit history)
 > - **Snapshotted commit:** `8b564a02f18609881c9c7e2c47f9f5f6b017617d`
